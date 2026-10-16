@@ -1,0 +1,5 @@
+node_modules/
+.env
+data/oneshi.sqlite
+data/sessions.sqlite
+*.log
